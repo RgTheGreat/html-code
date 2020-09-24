@@ -1,2 +1,3 @@
-#My name is Rigved.I am 9 years old.I like to code(HTML,CSS,Javascript).
-##do not mess with the code!!.
+At the top it is all the commits.
+At the middle it is README(what you are reading now)
+At last it is all the code I wrote on the file.
